@@ -29,7 +29,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY', 'django-insecure-j+b+)_!83*!o2@$2k=8r2
 # SECURITY WARNING: don't run with debug turned on in production!
 # DEBUG = 'DEVELOPMENT' in os.environ
 
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['boutique-ado123321-0cc6174e0aff.herokuapp.com', 'localhost', '127.0.0.1']
 
